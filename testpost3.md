@@ -4,7 +4,7 @@ subtitle: YOUR_SUBTITLE_HERE
 slug: github-test
 tags: github
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1656427313663/q5DTkChdwz.jpeg?auto=compress
-domain: geekoncoffee
+domain: geekoncoffee.hashnode.dev
 publishAs: geekoncoffee
 
 ---
